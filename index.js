@@ -5,7 +5,7 @@ client.on("ready", () => {
     console.log("[LIGOU]");
 });
 
-var links = ['steancomunnity','streancomunnuty']
+var links = ['steamcomunnity','streacomunnuty']
 
 client.on('message', async message => {        
     if(message.author.bot) return;
